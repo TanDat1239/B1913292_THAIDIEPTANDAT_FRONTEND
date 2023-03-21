@@ -6,7 +6,8 @@ const routes = [
         name: "contactbook",
         component: ContactBook,
     },
-
+    
+    //bao loi
     {
         path: "/:pathMatch(.*)*",
         name: "notfound",
