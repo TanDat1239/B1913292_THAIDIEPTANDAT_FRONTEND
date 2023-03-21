@@ -1,3 +1,4 @@
+<!-- cai dat bao loi -->
 <template>
     <div class="page">
         <p>
